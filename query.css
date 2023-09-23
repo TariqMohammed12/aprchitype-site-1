@@ -1,0 +1,262 @@
+@media screen and (max-width: 1691px) {
+  .rightser {
+    width: 100%;
+  }
+  .leftser h2 {
+    padding: 0;
+    padding-bottom: 39px;
+  }
+}
+@media screen and (max-width: 1682px) {
+  .upservice {
+    padding: 109px 0;
+  }
+}
+
+@media screen and (max-width: 1638px) {
+  .rbtbox {
+    padding: 23px 0;
+  }
+}
+
+@media screen and (max-width: 1592px) {
+  .rigth ul {
+    width: 0%;
+    height: calc(100% - 68px);
+    position: fixed;
+    top: 139px;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #e1e1e1;
+    transition: 0.2s;
+  }
+  .rigth ul li {
+    padding: 34px;
+
+    padding: 34px;
+    white-space: nowrap;
+  }
+  .rigth ul li a {
+    padding: 0;
+    letter-spacing: 5px;
+    font-size: 18px;
+  }
+  .left1 {
+    margin-top: 72px;
+    padding-bottom: 60px;
+  }
+  .left1 p {
+    font-size: 77px;
+  }
+  .upmain {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1567px) {
+  .de {
+    padding: 0 84px 38px 137px;
+  }
+}
+@media screen and (max-width: 1500px) {
+  .left1 button {
+    margin: 90px 0;
+  }
+}
+@media screen and (max-width: 1399px) {
+  .insec {
+    flex-direction: column-reverse;
+  }
+  .leftt {
+    padding: 57px 0 0 0;
+  }
+  .inawards {
+    align-items: center;
+  }
+}
+@media screen and (max-width: 1270px) {
+  .upservice {
+    flex-direction: column;
+  }
+  .leftser {
+    align-self: center;
+    padding: 51px 0;
+  }
+  .rightser {
+    width: 100%;
+  }
+  .service {
+    padding: 57px 0 101px 0;
+  }
+  .leftser h2 {
+    padding-right: 0;
+  }
+}
+@media screen and (max-width: 1000px) {
+  .upmain {
+    padding: 90px 0 0 0;
+  }
+  .left1 {
+    padding-left: 24px;
+    width: 100%;
+  }
+  .left1 p {
+    font-size: 56px;
+  }
+}
+@media screen and (max-width: 997px) {
+  .upservice {
+    padding: 109px 0 0;
+  }
+  .service {
+    padding: 57px 0 15px 0;
+  }
+}
+@media screen and (max-width: 724px) {
+  .de {
+    padding: 0 84px 38px 38px;
+  }
+}
+@media screen and (max-width: 724px) {
+  main {
+    padding: 0;
+  }
+  nav {
+    padding: 42px 32px;
+  }
+  .logo {
+    width: 178px;
+  }
+  .left1 {
+    align-items: flex-start;
+    padding-left: 45px;
+  }
+  .left1 p {
+    font-size: 55px;
+    width: 100%;
+  }
+  .left1 button {
+    padding: 16px 25px;
+    font-size: 16px;
+  }
+  .rigth ul {
+    top: 130px;
+  }
+}
+@media screen and (max-width: 700px) {
+  .inawards {
+    align-items: center;
+  }
+}
+@media screen and (max-width: 640px) {
+  .sl {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .de {
+    padding: 0;
+  }
+  .year {
+    padding: 0 0 17px;
+
+  }
+}
+@media screen and (max-width: 630px) {
+  .rbtboxteam {
+    padding: 0;
+  }
+}
+@media screen and (max-width: 580px) {
+  .left1 {
+    padding-left: 22px;
+  }
+  .left1 p {
+    font-size: 46px;
+  }
+  .left1 button {
+    padding: 17px 17px;
+    font-size: 13px;
+    margin: 50px 0;
+  }
+  .pad h4 {
+    font-size: 24px;
+  }
+  .pad p {
+    font-size: 18px;
+  }
+  .leftser h2,
+  .rbtteamtitle h2 {
+    font-size: 53px;
+    padding-right: 0;
+  }
+}
+
+@media screen and (max-width: 538px) {
+  .view {
+    width: 100%;
+  }
+  
+  .rigthh {
+
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    padding: 0 129px;
+    width: 100%;
+  }
+  .rigthh img {
+    width: unset;
+  }
+  .inawards {
+    width: 100%;
+  }
+  .insec {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 480px) {
+  .left1 {
+    padding-left: 0;
+    text-align: center;
+  }
+  .left1 p {
+    padding: 0 30px;
+    width: 100%;
+    white-space: unset;
+    margin-left: 0;
+  }
+  .left1 button {
+    margin: 102px 0 37px 0;
+  }
+  .rigth ul {
+    top: 129px;
+  }
+  .show ul {
+    padding: 17px;
+    width: 100%;
+    left: 50%;
+    transform: translate(-50%, 0);
+    background: radial-gradient(#b18f8c, transparent);
+    align-items: center;
+    justify-content: center;
+  }
+  .show ul li a {
+    color: #fff;
+  }
+
+}
+@media screen and (max-width: 460px) {
+.ti {
+  font-size: 22px;
+}
+.de p {
+  font-size: 18px;
+}
+}
+@media screen and (max-width: 380px) {
+  .view {
+    height: 438px;
+  }
+}
